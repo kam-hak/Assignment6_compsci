@@ -23,3 +23,4 @@ Finally, I uploaded this all to a git repository on github with the following co
 >>git commit -m "message here" # this 'commits' changes to my local git repository, ready to be pushed to the git server  
 >>git branch -M main # Changes the branch name from master to main (this is what github suggested)
 >>git push -u origin main # This pushes our folder onto the server and makes it the default, so further updates only need git push to add to the main branch (this is what github suggested)
+ 
